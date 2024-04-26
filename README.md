@@ -69,3 +69,4 @@ human woman with short hair, light blonde hair, grey eyes, wearing a leather arm
 ### More Prompts Online Tools
 - [Sex Prompts](https://betterwaifu.com/novelai-sex-prompts/) <img width="18" src="images/website.svg" alt="website"/> - A lot of pose keyword 🔞
 - [Clip Interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) <img width="18" src="images/website.svg" alt="website"/> - a prompt engineering tool to optimize text prompts to match a given image
+- [CLIP Interrogator 2.1](https://www.anysue.com/interrogator.html) <img width="18" src="images/website.svg" alt="website"/> - a other service site
