@@ -10,15 +10,15 @@
 
 ## Text to Image Generator
 
-- [Midjourney](https://www.midjourney.com/app/) <img width="18" src="images/discord.svg" alt="discord bot" style="fill:#2f84f7;"/> -  The first success AI image generator product.
-- [Bing Image Creator](https://cn.bing.com/images/create) <img width="18" src="images/website.svg" alt="discord bot"/> -  A DALL· E's AI image generation tool by Microsoft Bing.
-- [悠船 YouchuanAI](https://www.youchuanai.com/) <img width="18" src="images/website.svg" alt="website"/> <img width="18" src="images/mac.svg" alt="Mac App"/> <img width="18" src="images/windows.svg" alt="Widnows App"/>  - A Chinese Commercial AI image generator app.
-- [ideogram.ai](https://ideogram.ai/) <img width="18" src="images/website.svg" alt="website"/>   - With reliable text rendering capabilities.
-- [Dreamina](https://dreamina.jianying.com/) <img width="18" src="images/website.svg" alt="website"/>   - Power by Bytedance.
-- [奇域 qiyu](https://www.qiyuai.net/) <img width="18" src="images/website.svg" alt="website"/>   - Focus on Chinese style, power by XiaoHuangShu.
-- [通义万相 wanxiang](https://tongyi.aliyun.com/wanxiang/) <img width="18" src="images/website.svg" alt="website"/>   - Power by Alibaba.
-- [文心一格 yige](https://yige.baidu.com/) <img width="18" src="images/website.svg" alt="website"/>   - Power by Baidu.
-- [哩布](https://www.liblib.art/lib3) <img width="18" src="images/website.svg" alt="website"/>   - Support lots of Model and SD3 Beta
+- [Midjourney](https://www.midjourney.com/app/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/discord.svg" alt="discord bot" style="fill:#2f84f7;"/> -  The first success AI image generator product.
+- [Bing Image Creator](https://cn.bing.com/images/create) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="discord bot"/> -  A DALL· E's AI image generation tool by Microsoft Bing.
+- [悠船 YouchuanAI](https://www.youchuanai.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/mac.svg" alt="Mac App"/> <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/windows.svg" alt="Widnows App"/>  - A Chinese Commercial AI image generator app.
+- [ideogram.ai](https://ideogram.ai/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - With reliable text rendering capabilities.
+- [Dreamina](https://dreamina.jianying.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - Power by Bytedance.
+- [奇域 qiyu](https://www.qiyuai.net/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - Focus on Chinese style, power by XiaoHuangShu.
+- [通义万相 wanxiang](https://tongyi.aliyun.com/wanxiang/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - Power by Alibaba.
+- [文心一格 yige](https://yige.baidu.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - Power by Baidu.
+- [哩布](https://www.liblib.art/lib3) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - Support lots of Model and SD3 Beta
 
 ### Example
 
@@ -53,20 +53,25 @@ human woman with short hair, light blonde hair, grey eyes, wearing a leather arm
 
 ## Showcase with Prompt
 
-- [Civitai](https://civitai.com/images/) <img width="18" src="images/website.svg" alt="website"/> - No.1 AI Image Models Website
-- [哩布 Liblib](https://www.liblib.art/inspiration) <img width="18" src="images/website.svg" alt="website"/> - No.1 AI Image Models Website in China
-- [Kalos Art lib](https://lib.kalos.art/) <img width="18" src="images/website.svg" alt="website"/> - Your Ultimate AI Artistic Style Library
-- [Lexica](https://lexica.art/) <img width="18" src="images/website.svg" alt="website"/> - Search and Generate AI images
-- [Prompt Folder](https://promptfolder.com/midjourney-prompt-helper/) <img width="18" src="images/website.svg" alt="website"/> - Midjourney Prompt Generator
-- [Prompt Mania](https://promptomania.com/) <img width="18" src="images/website.svg" alt="website"/> - AI art community with an online prompt builder
-- [Cat Journey](https://catjourney.life/) <img width="18" src="images/website.svg" alt="website"/> - Amazing AI images and prompt
+- [Civitai](https://civitai.com/images/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - No.1 AI Image Models Website
+- [哩布 Liblib](https://www.liblib.art/inspiration) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - No.1 AI Image Models Website in China
+- [Kalos Art lib](https://lib.kalos.art/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Your Ultimate AI Artistic Style Library
+- [Lexica](https://lexica.art/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Search and Generate AI images
+- [Prompt Folder](https://promptfolder.com/midjourney-prompt-helper/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Midjourney Prompt Generator
+- [Prompt Mania](https://promptomania.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - AI art community with an online prompt builder
+- [Cat Journey](https://catjourney.life/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Amazing AI images and prompt
 
 ### More AI Prompts Websites
 
-- [Prompt Hero](https://prompthero.com/) <img width="18" src="images/website.svg" alt="website"/> - Maybe the biggest prompt website
-- [Prompt Base](https://promptbase.com/) <img width="18" src="images/website.svg" alt="website"/> - Sell your prompts online
+- [Prompt Hero](https://prompthero.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Maybe the biggest prompt website
+- [Prompt Base](https://promptbase.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Sell your prompts online
 
 ### More Prompts Online Tools
-- [Sex Prompts](https://betterwaifu.com/novelai-sex-prompts/) <img width="18" src="images/website.svg" alt="website"/> - A lot of pose keyword 🔞
-- [Clip Interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) <img width="18" src="images/website.svg" alt="website"/> - a prompt engineering tool to optimize text prompts to match a given image
-- [CLIP Interrogator 2.1](https://www.anysue.com/interrogator.html) <img width="18" src="images/website.svg" alt="website"/> - a other service site
+
+- [Sex Prompts](https://betterwaifu.com/novelai-sex-prompts/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - A lot of pose keyword 🔞
+- [Clip Interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - a prompt engineering tool to optimize text prompts to match a given image
+- [CLIP Interrogator 2.1](https://www.anysue.com/interrogator.html) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - a other prompt engineering service site
+- [Image AI Description](https://imagedescriptiongenerator.xyz/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - a AI driven image description generator
+
+# More Resources
+- [Google Colab : CLIP Interrogator 2.1](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)
