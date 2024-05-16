@@ -65,6 +65,8 @@ human woman with short hair, light blonde hair, grey eyes, wearing a leather arm
 
 - [Prompt Hero](https://prompthero.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Maybe the biggest prompt website
 - [Prompt Base](https://promptbase.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Sell your prompts online
+- [Artiverse Hub](https://artiversehub.ai/prompt-marketplace) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - Free AI Art Prompt market is offering Multi-Platform ai prompts
+
 
 ### More Prompts Online Tools
 
