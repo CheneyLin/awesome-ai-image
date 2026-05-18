@@ -5,8 +5,13 @@
 
 ## Contents
 
+- [🧹 AI Image Editing Tools](#ai-image-editing-tools)
 - [🤖 Text to Image Generator](#text-to-image-generator)
 - [🎨 https://github.com/CheneyLin/awesome-ai-image/raw/main/showcase with Prompt](#https://github.com/CheneyLin/awesome-ai-image/raw/main/showcase-with-prompt)
+
+## AI Image Editing Tools
+
+- [ClearCrowds](https://clearcrowds.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - AI photo cleanup editor for removing crowds, unwanted objects, clutter, and other distractions with presets and natural-language prompts.
 
 ## Text to Image Generator
 
