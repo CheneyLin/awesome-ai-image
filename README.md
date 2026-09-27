@@ -11,6 +11,7 @@
 ## Text to Image Generator
 
 - [Midjourney](https://www.midjourney.com/app/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/discord.svg" alt="discord bot" style="fill:#2f84f7;"/> -  The first success AI image generator product.
+- [Raphael](https://raphael.app) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - Free unlimited AI image generator with intelligent multi-model routing.
 - [Bing Image Creator](https://cn.bing.com/images/create) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="discord bot"/> -  A DALL· E's AI image generation tool by Microsoft Bing.
 - [悠船 YouchuanAI](https://www.youchuanai.com/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/mac.svg" alt="Mac App"/> <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/windows.svg" alt="Widnows App"/>  - A Chinese Commercial AI image generator app.
 - [ideogram.ai](https://ideogram.ai/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/>   - With reliable text rendering capabilities.
