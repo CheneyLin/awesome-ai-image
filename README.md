@@ -70,6 +70,7 @@ human woman with short hair, light blonde hair, grey eyes, wearing a leather arm
 
 ### More Prompts Online Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [Sex Prompts](https://betterwaifu.com/novelai-sex-prompts/) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - A lot of pose keyword 🔞
 - [Clip Interrogator](https://replicate.com/pharmapsychotic/clip-interrogator) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - a prompt engineering tool to optimize text prompts to match a given image
 - [CLIP Interrogator 2.1](https://www.anysue.com/interrogator.html) <img width="18" src="https://github.com/CheneyLin/awesome-ai-image/raw/main/images/website.svg" alt="website"/> - a other prompt engineering service site
